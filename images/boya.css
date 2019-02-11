@@ -1,0 +1,194 @@
+.top{
+			/*width: 1200px;
+			margin: 0 auto;*/
+			background: black;
+			overflow: hidden;
+		}
+		.left{
+			float: left;
+		}
+		.right{
+			float: left;
+			color: white;
+		}
+		.rivhi li{
+			float: left;
+			list-style: none;
+			margin: 5px 50px;
+		}
+		.rivhi li:hover{
+			background:pink;
+		}
+		.right{
+			float: left;
+		}
+		.right2{
+			border: 1px solid white;
+			float: right;
+			margin-right: 50px;
+			margin-top:13px;
+			color: white; 
+			background: green;
+			padding: 6px;
+		}
+		.banner1 img{
+			width: 100%;
+		}
+		.banner{
+			position: relative;
+			}
+		.circle1 li{
+			float: left;
+			width: 10px;
+			list-style: none;
+			height: 10px;
+			border-radius: 10px;
+			background: white;
+			margin-left: 10px;
+		}
+		.circle{
+			position: absolute;
+			bottom: 10px;
+			left: 45%;
+		}
+		.kuj{
+			width: 1200px;
+			margin: 0 auto;
+			overflow: hidden;
+			margin-top: 25px;
+		}
+		.kuj img{
+			width: 200px;
+			height: 110px;
+		}
+		.pt0{
+			float: left;
+			margin-left: 70px;
+		}
+		.pt1{
+			float: left;
+			margin-left: 70px;
+		}
+		.pt2{
+			float: left;
+			margin-left: 70px;
+
+		}
+		.pt3{
+			float: left;
+			margin-left: 70px;
+		}
+		.underline{
+			width: 1200px;
+			margin: 0 auto;
+			margin-top: 30px;
+			overflow: hidden;
+		}
+		.line1{
+			float: left;
+			border: 1px solid #ccc;
+			width:500px;	
+		}
+		.line2{
+			float: right;
+			border: 1px solid #ccc;
+			width:500px;	
+		}
+		.line4 li{
+			float: left;
+			width: 10px;
+			height: 10px;
+			border-radius: 10px;
+			background:green;
+			list-style: none;
+			margin-left: 10px;
+		}
+		.line3{
+			position:relative;
+		}
+		.line4{
+			position:absolute;
+			left: 43%;
+			top: -20px;
+		}
+		.nat{
+			width: 1200px;
+			margin: 0 auto;
+			overflow: hidden;
+			position: relative;
+		}
+		.natleft{
+			width:600px;
+			height: 500px;
+			float: left;
+		}
+		.natright{
+			height: 500px;
+			width: 550px;
+			float: right;
+			position: relative;
+		}
+		.natimg{
+			position: relative;
+		}
+		.imgtop1{
+			position: absolute;
+			left: 250px;
+			top: 40px;
+		 }
+		 .frame{
+		 	position: absolute;
+		 	top: 150px;
+
+		 }
+		.frame1{
+			margin-top:20px;
+			border-bottom: 1px solid #ccc;
+		}
+		.frame0{
+			border-bottom: 1px solid #ccc;
+		}
+		.natright2{
+			position: absolute;
+			top: 50px;
+			left: 230px;
+		}
+		.natright3{
+			position: absolute;
+			top: 30px;
+			left: 80px;
+		}
+		.natright5{
+			position: absolute;
+			top: 100px;
+			left: 25px;
+			color: white;
+		}
+		.nzong{
+			color: white;
+			position: absolute;
+			top: 147px;
+			left: 25px;
+		}
+		.natright4{
+			border-bottom: 1px solid white
+		}
+		.bottom{
+			background:blue;
+			position: relative;
+			bottom: 180px;
+		}
+		.bone{
+			overflow: hidden;
+		}
+		.bottomleft{
+			float: left;
+			position: relative;
+			top: 60px;
+			left: 10px;
+		}
+		.bottomright{
+			float: right;
+			position: relative;
+			top: -50px;
+		}
